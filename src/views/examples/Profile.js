@@ -23,7 +23,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
-import profile from "assets/img/theme/team-4-800x800.jpg";
+import profile from "assets/img/theme/mariamsh.png";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -124,31 +124,41 @@ class Profile extends React.Component {
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                      Mariam Alshammari{" "}
+                      <span className="font-weight-light">, 23</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Jordan, Irbid
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Trainee-Coding Program
+                    </div>
+                    <div className="h6 mt-4">
+                      <i className="ni business_briefcase-24 mr-2" />
+                      CIS - Intermediate Web Programmer
+                      
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      Yarmouk University
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
+                          {/* An artist of considerable range, Ryan — the name taken
                           by Melbourne-raised, Brooklyn-based Nick Murphy —
                           writes, performs and records all of his own music,
                           giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                          structure. An artist of considerable range. */}
+                          I have big dreams for my future and I know the only
+                           way I will achieve those is if I work hard , I graduated
+                            from yarmouk university with excellent programming background,
+                             mine the ability to learn new skills with accordance to the
+                              institution job and improve upon them.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
