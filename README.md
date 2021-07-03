@@ -8,6 +8,65 @@
 
 Start your development with a Design System for [Bootstrap 4](https://getbootstrap.com/?ref=creativetim), [React](https://reactjs.org/?ref=creativetim) and [Reactstrap](https://reactstrap.github.io/?ref=creativetim). It is open source, free and it features many components that can help you create amazing websites.
 
+# **MY NETLIFY**
+[Netlify:](https://portofolio-mariam-alshammari.netlify.app)
+
+
+## Number and name of feature:1 Deploy 
+
+## Estimate of time needed to complete:a quarter hour
+## Start time: ___
+
+## Finish time: ___
+
+## Actual time needed to complete:a quarter hour
+
+
+## Number and name of feature: 2 Profile page
+
+## Estimate of time needed to complete:a quarter hour
+## Start time: ___
+
+## Finish time: ___
+
+## Actual time needed to complete:a quarter hour
+
+
+
+## Number and name of feature: 3 Nav , Header and Footer
+
+## Estimate of time needed to complete: half an hour
+## Start time: ___
+
+## Finish time: ___
+
+## Actual time needed to complete: half an hour
+
+
+
+## Number and name of feature: 4 portofolio page
+
+## Estimate of time needed to complete:a quarter hour
+## Start time: ___
+
+## Finish time: ___
+
+## Actual time needed to complete:a quarter hour
+
+
+
+## Number and name of feature: 5 Personalize
+
+## Estimate of time needed to complete:a quarter hour and more
+## Start time: ___
+
+## Finish time: ___
+
+## Actual time needed to complete:a quarter hour and more
+
+
+
+
 **Fully Coded Components**
 
 Argon Design System React is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
